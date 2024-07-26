@@ -2,6 +2,9 @@ Datenanbieter/ APIS:
 -----------------------
 
 Binance:
+  - library python-binance
+  - um Kurse abzurufen werden keine Keys benötigt
+  - Beispiel in Retrieve_BitcoinData.ipynib
 
 Geckocoin:
   - https://www.coingecko.com/en/api/pricing
