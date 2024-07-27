@@ -9,6 +9,9 @@ Fragen:
 - Nach meinem Verständnis handeln wir von CLOSE zu CLOSE. Wann genau wird die bot-Funktion ausgeführt? Kurz vor oder kurz nach dem Close der Stundenkerze? <br>
   Z.B. um 10:01 oder um 09:59? Können uns evtl. kurzfristige Informationsvorteile verschaffen. Bzw. ist relevant für die Backtest-Analyse.
 
+- Ziel ist eine gute Sharpe-Ratio: wird die berechnet in EURO? D.h. wenn man die ganze zeit in EURO bleibt (nicht erlaubt) hätte man eine Varianz von 0? <br>
+  Wenn ja, dann sollten wir uns auf wenige qualitativ hochwertige Signale konzentrieren -> Qualität über Quantität. Müssen keineen hohen Gewinn erzielen, aber niedrige Vola. 
+
 Datenanbieter/ APIS:
 -----------------------
 Binance:
