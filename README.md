@@ -12,6 +12,12 @@ Fragen:
 - Ziel ist eine gute Sharpe-Ratio: wird die berechnet in EURO? D.h. wenn man die ganze zeit in EURO bleibt (nicht erlaubt) hätte man eine Varianz von 0? <br>
   Wenn ja, dann sollten wir uns auf wenige qualitativ hochwertige Signale konzentrieren -> Qualität über Quantität. Müssen keineen hohen Gewinn erzielen, aber niedrige Vola. 
 
+Paper/ Recherche/ Trading-Ideen:
+---------------------------------
+![alt text](image.png)
+aus https://lutpub.lut.fi/bitstream/handle/10024/166377/Gradu_Seppala_Ville.pdf?sequence=1&isAllowed=y
+
+
 Datenanbieter/ APIS:
 -----------------------
 Binance:
