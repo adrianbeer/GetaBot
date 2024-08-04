@@ -27,7 +27,16 @@ Fragen:
 Paper/ Recherche/ Trading-Ideen:
 ---------------------------------
 ![alt text](image.png)
-aus https://lutpub.lut.fi/bitstream/handle/10024/166377/Gradu_Seppala_Ville.pdf?sequence=1&isAllowed=y
+- aus https://lutpub.lut.fi/bitstream/handle/10024/166377/Gradu_Seppala_Ville.pdf?sequence=1&isAllowed=y
+
+- https://eichhorn-coaching.de/hexensabbat-an-der-boerse/
+
+- https://edition.cnn.com/markets/fear-and-greed
+- https://quantpedia.com/are-there-seasonal-intraday-or-overnight-anomalies-in-bitcoin/
+- SMA 200
+- Momentum
+- Asi-Filter
+- Last hour positive or negative
 
 
 Datenanbieter/ APIS:
