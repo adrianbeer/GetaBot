@@ -1,3 +1,9 @@
+# Python 3.8 Umgebung benutzen
+# 1. Modell auswählen (OBV wegmachen, combos randomisieren) 
+# 2. features festellen
+# 3. string machen und reinpasten
+# zip machen...
+
 Fragen:
 ----------
 - Im Dokument steht Transaktionskosten sind gleich 0.005% (5Basispunkte). <br>
